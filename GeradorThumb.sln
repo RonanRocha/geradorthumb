@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeradorThumb", "GeradorThumb\GeradorThumb.csproj", "{CDF893B6-4DFA-4166-BED3-8A6EA24F41D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF893B6-4DFA-4166-BED3-8A6EA24F41D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF893B6-4DFA-4166-BED3-8A6EA24F41D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF893B6-4DFA-4166-BED3-8A6EA24F41D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF893B6-4DFA-4166-BED3-8A6EA24F41D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C87E9643-FB00-4EA2-8AAC-1F95B6818AE8}
+	EndGlobalSection
+EndGlobal
